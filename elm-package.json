@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "summary": "All the worlds currencies as records and union types",
     "repository": "https://github.com/Chadtech/elm-money.git",
     "license": "BSD3",
